@@ -36,7 +36,7 @@ pvCounter:
 pvIter:
 	.byte $00
 pvChars:
-	scrcode "I/-\"
+	scrcode "!/-\"
 pvCharsEnd:
 Tick:
 	pha
