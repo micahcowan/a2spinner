@@ -1,6 +1,9 @@
 a2spinner
 =====
 
+[**Click the image below to watch a demonstration video***<br />
+![a2spinner showcase video](https://img.youtube.com/vi/H-a-iP2wusM/0.jpg)](https://www.youtube.com/watch?v=H-a-iP2wusM)
+
 Creates an animated "spinner" prompt on your Apple \]\[ for your enjoyment and amusement!
 
 Download the DOS 3.3 disk from [the Releases page](https://github.com/micahcowan/a2spinner/releases), or [try it out in your web browser](http://micah.cowan.name/apple2js/apple2js.html#spinner)!
